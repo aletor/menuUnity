@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Final Fantasy VII/Assets/Scripts/Menu/UICharacter.cs">
+    <Files>
+      <File FileName="../Final Fantasy VII/Assets/Scripts/Menu/UICharacter.cs" Line="28" Column="19" />
+      <File FileName="Assets/Scripts/Main.cs" Line="43" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
